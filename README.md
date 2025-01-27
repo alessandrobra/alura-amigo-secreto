@@ -1,7 +1,5 @@
 # alura-amigo-secreto
 <div>
-Claro! Aqui está o README sem a seção de licença:
-
 Amigo Secreto
 Amigo Secreto é uma aplicação simples para realizar sorteios de amigos secretos. O projeto permite que os usuários adicionem nomes a uma lista e, ao clicar em um botão, realizem o sorteio de forma aleatória, exibindo o nome do amigo secreto escolhido.
 
