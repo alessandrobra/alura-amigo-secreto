@@ -1,5 +1,4 @@
 # alura-amigo-secreto
-<div>
 Amigo Secreto
 Amigo Secreto é uma aplicação simples para realizar sorteios de amigos secretos. O projeto permite que os usuários adicionem nomes a uma lista e, ao clicar em um botão, realizem o sorteio de forma aleatória, exibindo o nome do amigo secreto escolhido.
 
@@ -48,4 +47,3 @@ Prevenção de nomes repetidos: Garantir que o nome do amigo não seja adicionad
 Sorteio em grupos: Permitir que o sorteio seja feito para grupos de amigos, com emparelhamento de amigos secretos entre si.
 Problemas Conhecidos
 Lista Vazia: Se o usuário tenta sortear um amigo antes de adicionar qualquer nome, a aplicação irá alertar que a lista está vazia.
-</div>
