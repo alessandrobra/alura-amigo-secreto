@@ -1,4 +1,4 @@
-Aqui está o texto ajustado com emojis para deixá-lo mais dinâmico e envolvente:  
+  
 
 ---
 
